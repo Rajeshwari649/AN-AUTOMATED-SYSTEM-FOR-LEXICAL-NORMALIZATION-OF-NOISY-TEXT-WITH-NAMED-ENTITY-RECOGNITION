@@ -25,3 +25,5 @@ MODULE IV-NER TAGGING
   The NER (Named Entity Recognition) tagging will be done for the words which are POS tagged as nouns.  Here the noun.txt is the input file.
   INPUT:Words POS tagged as nouns
   OUTPUT:NER tagged words
+
+
